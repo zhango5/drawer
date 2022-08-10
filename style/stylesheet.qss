@@ -1,0 +1,38 @@
+﻿* {
+    font-family: "Arial";
+}
+
+QToolBox, QGroupBox {
+    background-color: white;
+    border: none;
+}
+
+QToolBoxButton {
+    min-height: 30px;
+    font-size: 12pt;
+}
+
+QToolBox::tab {
+    background-color: #9e9e9e;
+    border-radius: 0px;
+    color: white;
+}
+
+QToolBox::tab:selected {
+    background-color: #00B0FF;
+    border-radius: 0px;
+    color: white;
+}
+
+QToolButton {
+    border: none;
+    border-radius: 0px;
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                    stop: 0 #e0e0e0, stop: 1 #9e9e9e);
+}
+
+QToolButton:pressed {
+    border-radius: 2px;
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                    stop: 0 #ffff00, stop: 1 #e040fb);
+}

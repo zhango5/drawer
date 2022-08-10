@@ -1,0 +1,49 @@
+﻿[
+    {
+        "name": "figure",
+        "tools": [
+            {
+                "name": "triangle",
+                "icon": "triangle.png"
+            },
+            {
+                "name": "circle",
+                "icon": "circle.png"
+            },
+            {
+                "name": "rectangle",
+                "icon": "rectangle.png"
+            }
+        ]
+    },
+    {
+        "name": "tool",
+        "tools": [
+            {
+                "name": "ruler",
+                "icon": "ruler.png"
+            },
+            {
+                "name": "eraser",
+                "icon": "eraser.png"
+            }
+        ]
+    },
+    {
+        "name": "measure",
+        "tools": [
+            {
+                "name": "barometer",
+                "icon": "barometer.png"
+            },
+            {
+                "name": "timer",
+                "icon": "timer.png"
+            },
+            {
+                "name": "calculator",
+                "icon": "calculator.png"
+            }
+        ]
+    }
+]

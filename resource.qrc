@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>style/stylesheet.qss</file>
+        <file>icon/figure/circle.png</file>
+        <file>icon/figure/rectangle.png</file>
+        <file>icon/figure/triangle.png</file>
+        <file>icon/tool/eraser.png</file>
+        <file>icon/tool/ruler.png</file>
+        <file>tools.json</file>
+        <file>icon/measure/barometer.png</file>
+        <file>icon/measure/calculator.png</file>
+        <file>icon/measure/timer.png</file>
+    </qresource>
+</RCC>
